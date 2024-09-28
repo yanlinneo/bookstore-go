@@ -1,0 +1,6 @@
+*.exe
+*.dll
+*.out
+.env
+api-test/
+api.db
